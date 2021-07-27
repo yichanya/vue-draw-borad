@@ -1,24 +1,15 @@
 # vue-draw-borad
 
-## Project setup
+##确保本地装有node
+
+## Vscode打开项目，找到package.json文件，右键 ‘在集成终端中打开’ ，输入以下命令进行装包 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 装包后在终端输入即可启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
